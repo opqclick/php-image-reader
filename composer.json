@@ -1,0 +1,19 @@
+{
+    "name": "opqclick/imagereader",
+    "description": "Package for ready image text",
+    "type": "pro",
+    "autoload": {
+        "psr-4": {
+            "Opqclick\\Imagereader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Opu Hasnat"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    }
+}
