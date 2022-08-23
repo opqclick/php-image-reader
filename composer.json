@@ -14,6 +14,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.4"
+        "php": ">=8.0",
+        "phpunit/php-timer": "6.0.x-dev",
+        "thiagoalessio/tesseract_ocr": "dev-main"
     }
 }
